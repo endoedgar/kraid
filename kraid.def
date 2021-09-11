@@ -1,0 +1,19 @@
+[Info]
+name="Kraid by endoedgar"
+displayname="Kraid"
+versiondate=22/10/2010
+mugenversion=06,14,2003
+author="endoedgar"
+pal.defaults=
+[Files]
+sprite=kraid.sff
+sound=kraid.snd
+anim=kraid.air
+cmd=kraid.cmd
+cns=kraid.cns
+st=kraid.st
+stcommon=common1.cns
+pal1=kraid.act
+[Arcade]
+intro.storyboard=
+ending.storyboard=

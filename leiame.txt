@@ -1,0 +1,59 @@
+Kraid 1.0
+by endoedgar (http://endoedgar.netne.net)
+
+Sumário
+1.0 INTRODUÇÃO
+2.0 DESENVOLVIMENTO
+3.0 GOLPES / MOVES LIST
+4.0 CRÉDITOS / CREDITS
+5.0 CONTATO / CONTACT
+
+1.0 INTRODUÇÃO
+
+Kraid é um dos primeiros chefes do jogo Super Metroid para Nintendo, é uma espécie de lagarto gigante e um dos comparsas de Mother Brain. Seus ataques principais são facilmente desviados com um pouco de agillidade de seu oponente. Somente recebe danos quando é atingido dentro da boca, portanto faça de tudo para explorar esse ponto fraco.
+
+2.0 DESENVOLVIMENTO
+
+23/10/2010
+- 80% da Ripagem de Sprites
+- Estudo do comportamento
+- Criação do SFF
+
+24/10/2010
+- Absolutamente nada feito
+
+25/10/2010
+- 100% da Ripagem de Sprites
+- 50% da codificação CNS 
+- 60% da Ripagem dos Sons
+- Atualização do SFF
+- Criação do SND
+
+26/10/2010
+- 95% da codificação CNS
+- 100% da Ripagem dos Sons
+- Atualização do SND
+
+27/10/2010
+- Criação do Leiame
+- Bug fixes no CNS
+- Atualização do SFF (para inserir o portrait do Kraid, baixado da Metroid Database)
+- Publicação
+
+3.0 GOLPES / MOVES LIST
+Kraid só tem um tipo de golpe controlável, e só é utilizável na sua primeira forma...
+
+Throw Rocks (Only in first form)
+B
+
+4.0 CRÉDITOS / CREDITS
+
+Nintendo por ter feito o Super Metroid
+Elecbyte por ter feito o Mugen
+Você por ter baixado o char
+Metroid Database pelo portrait do Kraid
+
+5.0 CONTATO / CONTACT
+
+http://endoedgar.netne.net
+http://www.youtube.com/user/endoedgar
